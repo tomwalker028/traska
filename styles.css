@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.background-image{
+  background-image: url('/images/TRASKA\ HOLDING\ IMAGE\ ONLY.png');
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+}
+
+.centered {
+  font-family: 'Oxygen'; font-size: 4vh;
+  font-weight: bold;
+  letter-spacing: 15px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.top-right {
+  font-family: 'Oxygen'; font-size: 12vh;
+  font-weight: bold;
+  letter-spacing: 17px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 0%;
+  right: 4%;
+  z-index: 1;
+}
+
+.construction {
+  font-family: 'Oxygen'; font-size: 2vh;
+  font-weight: bold;
+  letter-spacing: 7px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 13%;
+  right: 5%;
+  z-index: 2;
+}
+
+.reputable {
+  font-family: 'Oxygen'; font-size: 2.5vh;
+  font-weight: bold;
+  letter-spacing: 4px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  bottom: 1.25rem;
+  right: 100px;
+  left: 100px;
+}
+
+.info{
+  font-family: 'Oxygen'; font-size: 2.5vh;
+  font-weight: bold;
+  letter-spacing: 4px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  top: 17.5%;
+  left: 5vh;
+}
+
+.phone {
+  font-family: 'Oxygen'; font-size: 2.5vh;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 21%;
+  left: 5.5vh;
+}
