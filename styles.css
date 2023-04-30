@@ -74,16 +74,6 @@
   left: 5vh;
 }
 
-.phone {
-  font-family: 'Oxygen'; font-size: 2.5vh;
-  font-weight: bold;
-  letter-spacing: 2px;
-  text-align: center;
-  color: white;
-  position: absolute;
-  top: 21%;
-  left: 5.5vh;
-}
 
 /* iPhone SE */
 @media only screen and (width: 320px) and (height: 568px) {
@@ -161,17 +151,6 @@
     top: 16.5%;
     left: 110px;
   }
-
-  .phone {
-    font-family: 'Oxygen'; font-size: 13px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-align: center;
-    color: white;
-    position: absolute;
-    top: 19%;
-    left: 130px;
-  }
   
 }
 
@@ -248,17 +227,6 @@
     position: absolute;
     top: 16.5%;
     left: 130px;
-  }
-
-  .phone {
-    font-family: 'Oxygen'; font-size: 13px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-align: center;
-    color: white;
-    position: absolute;
-    top: 19%;
-    left: 150px;
   }
   
 }
@@ -338,16 +306,6 @@
     left: 140px;
   }
 
-  .phone {
-    font-family: 'Oxygen'; font-size: 13px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-align: center;
-    color: white;
-    position: absolute;
-    top: 19%;
-    left: 160px;
-  }
   
 }
 
@@ -425,18 +383,6 @@
     top: 16%;
     left: 150px;
   }
-
-  .phone {
-    -webkit-text-fill-color: white;
-    font-family: 'Oxygen'; font-size: 13px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-align: center;
-    color: white;
-    position: absolute;
-    top: 18.5%;
-    left: 160px;
-  }
   
 }
 
@@ -513,17 +459,6 @@
     position: absolute;
     top: 16.5%;
     left: 110px;
-  }
-
-  .phone {
-    font-family: 'Oxygen'; font-size: 13px;
-    font-weight: bold;
-    letter-spacing: 2px;
-    text-align: center;
-    color: white;
-    position: absolute;
-    top: 19%;
-    left: 130px;
   }
   
 }
