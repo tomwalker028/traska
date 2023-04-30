@@ -427,6 +427,7 @@
   }
 
   .phone {
+    -webkit-text-fill-color: white;
     font-family: 'Oxygen'; font-size: 13px;
     font-weight: bold;
     letter-spacing: 2px;
