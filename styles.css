@@ -4,7 +4,7 @@
 }
 
 .background-image{
-  background-image: url('TRASKA\ HOLDING\ IMAGE\ ONLY.png');
+  background-image: url('TRASKA\ HOLDING\ IMAGE\ ONLY.jpg');
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -83,4 +83,358 @@
   position: absolute;
   top: 21%;
   left: 5.5vh;
+}
+
+/* iPhone SE */
+@media only screen and (width: 375px) and (height: 667px) {
+
+  .top-right {
+    font-family: 'Oxygen'; font-size: 7vh;
+    font-weight: bold;
+    letter-spacing: 17px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 0%;
+    right: 3vh;
+    left: 1vh;
+    z-index: 1;
+  }
+
+  .reputable {
+    font-family: 'Oxygen'; font-size: 5px;
+    scale: 200%;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    position: absolute;
+    bottom: 3rem;
+    right: 100px;
+    left: 100px;
+  }
+
+  .centered {
+    font-family: 'Oxygen'; font-size: 1vh;
+    font-weight: bold;
+    letter-spacing: 1px;
+    scale: 300%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+  }
+
+  .top-right {
+    font-family: 'Oxygen'; font-size: 8vh;
+    font-weight: bold;
+    letter-spacing: 17px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 20px;
+  }
+
+  .construction {
+    font-family: 'Oxygen'; font-size: 9px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    left: 2%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 13%;
+    right: 5%;
+    z-index: 2;
+  }
+
+  .info{
+    font-family: 'Oxygen'; font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 16.5%;
+    left: 110px;
+  }
+
+  .phone {
+    font-family: 'Oxygen'; font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 19%;
+    left: 130px;
+  }
+  
+}
+
+/* iPhone 12 */
+@media only screen and (width: 390px) {
+
+  .top-right {
+    font-family: 'Oxygen'; font-size: 7vh;
+    font-weight: bold;
+    letter-spacing: 17px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 0%;
+    right: 0px;
+    z-index: 1;
+  }
+
+  .reputable {
+    font-family: 'Oxygen'; font-size: 5px;
+    scale: 200%;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    position: absolute;
+    bottom: 3rem;
+    left: 110px;
+  }
+
+  .centered {
+    font-family: 'Oxygen'; font-size: 0.5vh;
+    font-weight: bold;
+    letter-spacing: 1px;
+    scale: 450%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 52%;
+    left: 83%;
+    transform: translate(-50%, -50%);
+  }
+
+  .top-right {
+    font-family: 'Oxygen'; font-size: 8vh;
+    font-weight: bold;
+    letter-spacing: 17px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 20px;
+  }
+
+  .construction {
+    font-family: 'Oxygen'; font-size: 9px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    left: 2%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 13%;
+    right: 0.5%;
+    z-index: 2;
+  }
+
+  .info{
+    font-family: 'Oxygen'; font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 16.5%;
+    left: 130px;
+  }
+
+  .phone {
+    font-family: 'Oxygen'; font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 19%;
+    left: 150px;
+  }
+  
+}
+
+/* iPhone XR */
+@media only screen and (width: 414px) {
+
+  .top-right {
+    font-family: 'Oxygen'; font-size: 7vh;
+    font-weight: bold;
+    letter-spacing: 17px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 0%;
+    right: 0px;
+    z-index: 1;
+  }
+
+  .reputable {
+    font-family: 'Oxygen'; font-size: 5px;
+    scale: 200%;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    position: absolute;
+    bottom: 3rem;
+    left: 110px;
+  }
+
+  .centered {
+    font-family: 'Oxygen'; font-size: 0.5vh;
+    font-weight: bold;
+    letter-spacing: 1px;
+    scale: 450%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 52%;
+    left: 82%;
+    transform: translate(-50%, -50%);
+  }
+
+  .top-right {
+    font-family: 'Oxygen'; font-size: 8vh;
+    font-weight: bold;
+    letter-spacing: 17px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 20px;
+  }
+
+  .construction {
+    font-family: 'Oxygen'; font-size: 9px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    left: 2%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 13%;
+    right: 0.5%;
+    z-index: 2;
+  }
+
+  .info{
+    font-family: 'Oxygen'; font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 16.5%;
+    left: 140px;
+  }
+
+  .phone {
+    font-family: 'Oxygen'; font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 19%;
+    left: 160px;
+  }
+  
+}
+
+/* iPhone 12 mini */
+@media only screen and (width: 375px) and (height: 760px) {
+
+  .top-right {
+    font-family: 'Oxygen'; font-size: 7vh;
+    font-weight: bold;
+    letter-spacing: 17px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 0%;
+    right: 0px;
+    z-index: 1;
+  }
+
+  .reputable {
+    font-family: 'Oxygen'; font-size: 5px;
+    scale: 200%;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+    position: absolute;
+    bottom: 3rem;
+    left: 110px;
+  }
+
+  .centered {
+    font-family: 'Oxygen'; font-size: 0.5vh;
+    font-weight: bold;
+    letter-spacing: 1px;
+    scale: 450%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 52%;
+    left: 83%;
+    transform: translate(-50%, -50%);
+  }
+
+  .top-right {
+    font-family: 'Oxygen'; font-size: 8vh;
+    font-weight: bold;
+    letter-spacing: 17px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 3%;
+    left: 20px;
+  }
+
+  .construction {
+    font-family: 'Oxygen'; font-size: 9px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    left: 2%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 13%;
+    right: 0.5%;
+    z-index: 2;
+  }
+
+  .info{
+    font-family: 'Oxygen'; font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 16.5%;
+    left: 110px;
+  }
+
+  .phone {
+    font-family: 'Oxygen'; font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 19%;
+    left: 130px;
+  }
+  
 }
