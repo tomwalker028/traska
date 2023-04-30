@@ -311,6 +311,9 @@
 
 /* iPhone 12 mini */
 @media only screen and (max-width: 430px) {
+  .background-image{
+    scale:110%
+  }
 
   .top-right {
     font-family: 'Oxygen'; font-size: 7vh;
@@ -344,7 +347,7 @@
     color: white;
     position: absolute;
     top: 52%;
-    left: 85%;
+    left: 80%;
     transform: translate(-50%, -50%);
   }
 
@@ -420,9 +423,8 @@
     text-align: center;
     color: white;
     position: absolute;
-    top: 52%;
-    left: 83%;
-    transform: translate(-50%, -50%);
+    top: 100px;
+    left: 100px;
   }
 
   .top-right {
