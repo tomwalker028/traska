@@ -86,7 +86,7 @@
 }
 
 /* iPhone SE */
-@media only screen and (width: 375px) and (height: 667px) {
+@media only screen and (width: 320px) and (height: 568px) {
 
   .top-right {
     font-family: 'Oxygen'; font-size: 7vh;
@@ -440,7 +440,7 @@
 }
 
 /* iPhone 12 mini */
-@media only screen and (width: 375px) and (height: 760px) {
+@media only screen and (width: 360px) and (height: 780px) {
 
   .top-right {
     font-family: 'Oxygen'; font-size: 7vh;
