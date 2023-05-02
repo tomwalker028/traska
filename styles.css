@@ -104,7 +104,7 @@
 }
 
 /* For iPhones */
-@media screen and (max-width:768px){
+@media screen and (max-width:768px) and (orientation: portrait){
   .main__container{
     display: grid;
     width: 100%;
@@ -133,6 +133,7 @@
 
   .reputable {
     font-size: 2vh;
+    letter-spacing: 0.5vh;
     position: absolute;
     width: 100%;
     max-width: 1300px;
