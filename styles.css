@@ -147,5 +147,10 @@
     max-width: 1300px;
     font-size: 1vh;
   }
+
+  .contact__container h2{
+    text-decoration: none;
+    color: inherit;
+  }
     
 }
