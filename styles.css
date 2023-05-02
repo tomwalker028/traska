@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-.background-image{
+/* .background-image{
   background-image: url('TRASKA\ HOLDING\ IMAGE\ ONLY.jpg');
   background-size: cover;
   -webkit-background-size: cover;
@@ -14,14 +14,14 @@
   background-position: center center;
   height: 100vh;
   width: 100%
-}
+} */
 
 .centered {
   font-family: 'Oxygen'; font-size: 5vh;
   font-weight: bolder;
   letter-spacing: 2vh;
   text-align: center;
-  color: white;
+  color: black;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -60,7 +60,7 @@
   width: 100%;
   letter-spacing: 0.5vh;
   text-align: center;
-  color: white;
+  color: black;
   bottom: 25px;
 }
 
@@ -69,7 +69,7 @@
   font-weight: bold;
   letter-spacing: 0.5vh;
   text-align: center;
-  color: white;
+  color: black;
   text-decoration: none;
   position: absolute;
   top: 17.5%;
@@ -88,7 +88,7 @@
   padding-left: 50%;
   justify-self: center;
   align-items: center;
-  color: white;
+  color: black;
 }
 
 .main__container h1{
@@ -112,6 +112,7 @@
     margin: auto;
     padding-left: 100px;
     padding-right: 100px;
+    padding: 0;
   }
 
   .main__container h1{
@@ -136,6 +137,7 @@
     margin: auto;
   }
   .contact__container{
+    width: 100%;
     font-size: 1.25vh;
   }
     
