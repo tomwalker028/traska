@@ -122,6 +122,7 @@
 
   .main__container h2{
     font-size: 2vh;
+    letter-spacing: 0.25vh;
   }
 
   .centered {
@@ -139,6 +140,7 @@
     max-width: 1300px;
     text-align: center;
     margin: auto;
+    bottom: 35px;
   }
   .contact__container{
     width: 100%;
