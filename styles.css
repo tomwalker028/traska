@@ -113,7 +113,6 @@
     padding-left: 100px;
     padding-right: 100px;
     padding: 0;
-    max-width: 1300px;
   }
 
   .main__container h1{
@@ -128,7 +127,6 @@
   .centered {
     font-size: 3vh;
     width: 100%;
-    max-width: 1300px;
     letter-spacing: 0.5vh;
   }
 
@@ -137,14 +135,12 @@
     letter-spacing: 0.25vh;
     position: absolute;
     width: 100%;
-    max-width: 1300px;
     text-align: center;
     margin: auto;
     bottom: 40px;
   }
   .contact__container{
     width: 100%;
-    max-width: 1300px;
     font-size: 1vh;
   }
 
