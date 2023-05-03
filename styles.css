@@ -32,7 +32,7 @@
   white-space: nowrap;
   width: 0;
   animation: typing;
-  animation-duration: 4s;
+  animation-duration: 5s;
   animation-timing-function: steps(30, end);
   animation-fill-mode: forwards;
 }
@@ -75,11 +75,11 @@
   text-align: center;
   color: white;
   bottom: 25px;
-  animation: fadeIn 4s;
-  -webkit-animation: fadeIn 4s;
-  -moz-animation: fadeIn 4s;
-  -o-animation: fadeIn 4s;
-  -ms-animation: fadeIn 4s;
+  animation: fadeIn 5s;
+  -webkit-animation: fadeIn 5s;
+  -moz-animation: fadeIn 5s;
+  -o-animation: fadeIn 5s;
+  -ms-animation: fadeIn 5s;
 }
 
 .contact__container {
@@ -92,11 +92,11 @@
   position: absolute;
   top: 17.5%;
   left: 5vh;
-  animation: fadeIn 4s;
-  -webkit-animation: fadeIn 4s;
-  -moz-animation: fadeIn 4s;
-  -o-animation: fadeIn 4s;
-  -ms-animation: fadeIn 4s;
+  animation: fadeIn 5s;
+  -webkit-animation: fadeIn 5s;
+  -moz-animation: fadeIn 5s;
+  -o-animation: fadeIn 5s;
+  -ms-animation: fadeIn 5s;
 }
 
 .traska__container{
@@ -114,11 +114,11 @@
   align-items: center;
   position: absolute;
   color: white;
-  animation: fadeIn 4s;
-  -webkit-animation: fadeIn 4s;
-  -moz-animation: fadeIn 4s;
-  -o-animation: fadeIn 4s;
-  -ms-animation: fadeIn 4s;
+  animation: fadeIn 5s;
+  -webkit-animation: fadeIn 5s;
+  -moz-animation: fadeIn 5s;
+  -o-animation: fadeIn 5s;
+  -ms-animation: fadeIn 5s;
 }
 
 @keyframes fadeIn {
@@ -151,6 +151,7 @@
   letter-spacing: 2vh;
   text-align: center;
 }
+
 
 .main__container h2{
   font-size: 3vh;
