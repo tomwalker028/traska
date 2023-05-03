@@ -115,8 +115,6 @@
     width: 100%;
     position: absolute;
     margin: auto;
-    padding-left: 100px;
-    padding-right: 100px;
     padding: 0;
   }
 
@@ -146,12 +144,11 @@
   }
   .contact__container{
     width: 100%;
-    font-size: 1vh;
+    font-size: 1.5vh;
     left: 1%;
     text-align: left;
     letter-spacing: 0.25vh;
     padding-left: 20px;
-    padding-top: 10px;
   }
 
   .contact__container h2{
